@@ -104,7 +104,7 @@
             "admob_id":"ca-app-pub-1354856141599199/9379069467",
             "ads_enabled":true,
             "admob_weight":10,
-            "cb_weight":0
+            "cb_weight":5
         }
         , "com.dym.SienceFiction":
         {
