@@ -102,7 +102,7 @@
         {
             "app_name":"寂寞空庭春欲晚",
             "admob_id":"ca-app-pub-1354856141599199/9379069467",
-            "ads_enabled":true,
+            "ads_enabled":false,
             "admob_weight":10,
             "cb_weight":5
         }
