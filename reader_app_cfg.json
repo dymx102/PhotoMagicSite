@@ -1,1 +1,6 @@
-{"version":1,"apps": ["com.dym.app1": {"app_name":"test", "admob_id":"abcdefg", "ads_enabled":true, "admob_weight":10, "cb_weight":5}]}
+{
+  "version":1,
+  "apps": {"com.dym.app1": 
+  {"app_name":"test", "admob_id":"abcdefg", "ads_enabled":true, "admob_weight":10, "cb_weight":5}
+  }
+}
