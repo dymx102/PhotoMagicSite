@@ -1,6 +1,30 @@
 {
-  "version":1,
-  "apps": {"com.dym.app1": 
-  {"app_name":"test", "admob_id":"abcdefg", "ads_enabled":true, "admob_weight":10, "cb_weight":5}
-  }
+    "version":1,
+    "apps":
+    {
+        "com.dym.crazyMazeRunner":
+        {
+            "app_name":"盗墓笔记全集",
+            "admob_id":"ca-app-pub-1354856141599199/5643812660",
+            "ads_enabled":true,
+            "admob_weight":10,
+            "cb_weight":5
+        }
+        , "com.dymx101.cityHunter1":
+        {
+            "app_name":"古龙全集",
+            "admob_id":"ca-app-pub-1354856141599199/8720520263",
+            "ads_enabled":true,
+            "admob_weight":10,
+            "cb_weight":5
+        }
+        , "com.dym.skeletonKey":
+        {
+            "app_name":"芈月传",
+            "admob_id":"ca-app-pub-1354856141599199/6353979868",
+            "ads_enabled":true,
+            "admob_weight":10,
+            "cb_weight":5
+        }
+    }
 }
