@@ -26,10 +26,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.unipei.app":
+        , "com.dymx102.qihuan":
         {
             "app_name":"奇幻小说精选",
-            "admob_id":"ca-app-pub-1354856141599199/1807859067",
+            "admob_id":"ca-app-pub-7635376757557763/5005261137",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
