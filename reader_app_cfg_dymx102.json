@@ -82,10 +82,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.dym.BloodyLegend":
+        , "com.dymx102.fanren":
         {
-            "app_name":"玄幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/5393828660",
+            "app_name":"玄幻小说-凡人修仙",
+            "admob_id":"ca-app-pub-7635376757557763/6900796731",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
