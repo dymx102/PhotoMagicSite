@@ -66,10 +66,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.dym.tonghua":
+        , "com.dymx102.tonghua":
         {
             "app_name":"童话故事",
-            "admob_id":"ca-app-pub-1354856141599199/8993427862",
+            "admob_id":"ca-app-pub-7635376757557763/6621595131",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
