@@ -42,10 +42,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.dym.SchoolFlower":
+        , "com.dymx102.xiaohua":
         {
             "app_name":"校花的贴身高手",
-            "admob_id":"ca-app-pub-7635376757557763/2889399532",
+            "admob_id":"ca-app-pub-1354856141599199/4508659463",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
