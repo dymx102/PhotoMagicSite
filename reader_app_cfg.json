@@ -60,8 +60,8 @@
         }
         , "com.dym.kehuan":
         {
-            "app_name":"科幻悬疑小说",
-            "admob_id":"ca-app-pub-7635376757557763/8935933130",
+            "app_name":"科幻悬疑小说_stopped",
+            "admob_id":"ca-app-pub-111111111111111/111111111",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
