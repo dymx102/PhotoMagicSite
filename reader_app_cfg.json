@@ -61,7 +61,7 @@
         , "com.dym.kehuan":
         {
             "app_name":"科幻悬疑小说_stopped",
-            "admob_id":"ca-app-pub-111111111111111/111111111",
+            "admob_id":"",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
