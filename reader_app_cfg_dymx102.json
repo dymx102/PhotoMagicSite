@@ -90,10 +90,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.dym.Forbidden":
+        , "com.dymx102.FishMan":
         {
-            "app_name":"禁书大全",
-            "admob_id":"ca-app-pub-1354856141599199/2497407868",
+            "app_name":"都市玄幻小说系列",
+            "admob_id":"ca-app-pub-7635376757557763/7958727533",
             "ads_enabled":true,
             "admob_weight":10,
             "cb_weight":5
