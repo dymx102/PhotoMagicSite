@@ -162,5 +162,13 @@
             "admob_weight":10,
             "cb_weight":5
         }
+	 , "com.dymx102.EatTomato":
+        {
+            "app_name":"我吃西红柿作品",
+            "admob_id":"ca-app-pub-7635376757557763/5585719131",
+            "ads_enabled":true,
+            "admob_weight":10,
+            "cb_weight":5
+        }
     }
 }
