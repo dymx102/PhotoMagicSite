@@ -87,7 +87,7 @@
             "app_name":"玄幻小说-凡人修仙",
             "admob_id":"ca-app-pub-7635376757557763/6900796731",
             "ads_enabled":true,
-            "admob_weight":10,
+            "admob_weight":0,
             "cb_weight":5
         }
         , "com.dymx102.FishMan":
