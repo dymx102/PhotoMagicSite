@@ -76,10 +76,10 @@
         }
         , "com.dymx102.HappySong":
         {
-            "app_name":"女医明妃传",
+            "app_name":"欢乐颂",
             "admob_id":"ca-app-pub-7635376757557763/7040397535",
             "ads_enabled":true,
-            "admob_weight":10,
+            "admob_weight":0,
             "cb_weight":5
         }
         , "com.dymx102.fanren":
