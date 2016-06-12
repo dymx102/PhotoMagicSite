@@ -7,7 +7,9 @@
             "app_name":"盗墓笔记全集",
             "admob_id":"ca-app-pub-7635376757557763/5842865936",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -16,7 +18,9 @@
             "app_name":"耽美纯爱小说",
             "admob_id":"ca-app-pub-7635376757557763/2330996331",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -25,7 +29,9 @@
             "app_name":"奇幻小说精选",
             "admob_id":"ca-app-pub-7635376757557763/5005261137",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -34,7 +40,9 @@
             "app_name":"校花的贴身高手",
             "admob_id":"ca-app-pub-7635376757557763/2889399532",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -43,7 +51,9 @@
             "app_name":"仙侠小说",
             "admob_id":"ca-app-pub-7635376757557763/8796332330",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -52,7 +62,9 @@
             "app_name":"科幻悬疑小说",
             "admob_id":"ca-app-pub-7635376757557763/8935933130",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -61,7 +73,9 @@
             "app_name":"童话故事",
             "admob_id":"ca-app-pub-7635376757557763/6621595131",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -70,7 +84,9 @@
             "app_name":"欢乐颂",
             "admob_id":"ca-app-pub-7635376757557763/7040397535",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -79,7 +95,9 @@
             "app_name":"玄幻小说-凡人修仙",
             "admob_id":"ca-app-pub-7635376757557763/6900796731",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -88,7 +106,9 @@
             "app_name":"都市玄幻小说系列",
             "admob_id":"ca-app-pub-7635376757557763/7958727533",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -97,7 +117,9 @@
             "app_name":"寂寞空庭春欲晚",
             "admob_id":"ca-app-pub-7635376757557763/9575061533",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -106,7 +128,9 @@
             "app_name":"热门科幻小说",
             "admob_id":"ca-app-pub-7635376757557763/5703265136",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -115,7 +139,9 @@
             "app_name":"名侦探柯南系列 - 动漫同人小说",
             "admob_id":"ca-app-pub-7635376757557763/8721728332",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -124,7 +150,9 @@
             "app_name":"历史小说",
             "admob_id":"ca-app-pub-7635376757557763/9993863938",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -133,7 +161,9 @@
             "app_name":"唐家三少玄幻小说",
             "admob_id":"ca-app-pub-7635376757557763/5117191137",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -142,7 +172,9 @@
             "app_name":"玄幻修仙小说2",
             "admob_id":"ca-app-pub-7635376757557763/6433657134",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -151,7 +183,9 @@
             "app_name":"我吃西红柿作品",
             "admob_id":"ca-app-pub-7635376757557763/5585719131",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -160,7 +194,9 @@
             "app_name":"梦入神机玄幻小说",
             "admob_id":"ca-app-pub-7635376757557763/1422557931",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -169,7 +205,9 @@
             "app_name":"血红玄幻小说",
             "admob_id":"ca-app-pub-7635376757557763/8077867138",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -178,7 +216,9 @@
             "app_name":"黑篮同人小说",
             "admob_id":"ca-app-pub-7635376757557763/5518876733",
             "ads_enabled":true,
-            "admob_enabled":true,
+	     "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+	     "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
