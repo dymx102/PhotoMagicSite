@@ -11,15 +11,6 @@
             "admob_weight":0,
             "cb_weight":5
         }
-        , "com.dymx101.cityHunter1":
-        {
-            "app_name":"古龙全集",
-            "admob_id":"ca-app-pub-7635376757557763/3947330331",
-            "ads_enabled":true,
-            "admob_enabled":true,
-            "admob_weight":0,
-            "cb_weight":5
-        }
         , "com.dymx102.danmei":
         {
             "app_name":"耽美纯爱小说",
@@ -33,15 +24,6 @@
         {
             "app_name":"奇幻小说精选",
             "admob_id":"ca-app-pub-7635376757557763/5005261137",
-            "ads_enabled":true,
-            "admob_enabled":true,
-            "admob_weight":0,
-            "cb_weight":5
-        }
-        , "com.dly.VaildEmail":
-        {
-            "app_name":"佛教图书精选",
-            "admob_id":"ca-app-pub-7635376757557763/2191395532",
             "ads_enabled":true,
             "admob_enabled":true,
             "admob_weight":0,
@@ -141,24 +123,6 @@
         {
             "app_name":"历史小说",
             "admob_id":"ca-app-pub-7635376757557763/9993863938",
-            "ads_enabled":true,
-            "admob_enabled":true,
-            "admob_weight":0,
-            "cb_weight":5
-        }
-        , "com.dym.TombRaider2":
-        {
-            "app_name":"鬼吹灯系列小说",
-            "admob_id":"ca-app-pub-7635376757557763/8656731538",
-            "ads_enabled":true,
-            "admob_enabled":true,
-            "admob_weight":0,
-            "cb_weight":5
-        }
-        , "com.dym.RunningGym":
-        {
-            "app_name":"健身图书",
-            "admob_id":"ca-app-pub-7635376757557763/4086931135",
             "ads_enabled":true,
             "admob_enabled":true,
             "admob_weight":0,
