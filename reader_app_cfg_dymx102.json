@@ -110,10 +110,10 @@
             "admob_weight":10,
             "cb_weight":5
         }
-        , "com.dym.DetectiveStory":
+        , "com.dymx102.conan":
         {
-            "app_name":"侦探小说",
-            "admob_id":"ca-app-pub-7635376757557763/6761195933",
+            "app_name":"名侦探柯南系列 - 动漫同人小说",
+            "admob_id":"ca-app-pub-7635376757557763/8721728332",
             "ads_enabled":true,
             "admob_enabled":true,
             "admob_weight":10,
