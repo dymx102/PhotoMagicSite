@@ -1,8 +1,8 @@
 {
     "version":1,
     "maxFreeReadCount":20,
-    "enableBaiduReadCount":5,
-    "intervalToShowAds":30,
+    "enableBaiduReadCount":1,
+    "intervalToShowAds":600,
     "apps":
     {
         "com.dymx102.daomu":
