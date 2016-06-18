@@ -13,7 +13,7 @@
             "admob_enabled":false,
             "chapter_change_ads":"vungle",
             "vungle_weight":5,
-            "admob_weight":0,
+            "admob_weight":5,
             "cb_weight":5
         }
         , "com.dymx101.cityHunter1":
