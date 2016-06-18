@@ -1,5 +1,8 @@
 {
     "version":1,
+    "maxFreeReadCount":20,
+    "enableBaiduReadCount":1,
+    "intervalToShowAds":600,
     "apps":
     {
         "com.dym.crazyMazeRunner":
@@ -7,6 +10,9 @@
             "app_name":"盗墓笔记全集",
             "admob_id":"ca-app-pub-9932849837242667/2837925031",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -15,6 +21,9 @@
             "app_name":"古龙全集",
             "admob_id":"ca-app-pub-1354856141599199/8720520263",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -23,6 +32,9 @@
             "app_name":"芈月传",
             "admob_id":"ca-app-pub-1354856141599199/6353979868",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -31,6 +43,9 @@
             "app_name":"奇幻小说精选",
             "admob_id":"ca-app-pub-1354856141599199/1807859067",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -39,6 +54,9 @@
             "app_name":"佛教图书精选",
             "admob_id":"ca-app-pub-1354856141599199/5679655465",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -47,6 +65,9 @@
             "app_name":"校花的贴身高手",
             "admob_id":"ca-app-pub-7635376757557763/2889399532",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -55,6 +76,9 @@
             "app_name":"仙侠小说",
             "admob_id":"ca-app-pub-1354856141599199/9834692668",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -63,6 +87,9 @@
             "app_name":"科幻悬疑小说_stopped",
             "admob_id":"",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -71,6 +98,9 @@
             "app_name":"童话故事",
             "admob_id":"ca-app-pub-1354856141599199/8993427862",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -79,6 +109,9 @@
             "app_name":"女医明妃传",
             "admob_id":"ca-app-pub-1354856141599199/6193224267",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -87,7 +120,10 @@
             "app_name":"玄幻凡人修仙小说",
             "admob_id":"ca-app-pub-9932849837242667/1221591034",
             "ads_enabled":true,
-            "admob_weight":0,
+            "admob_enabled":true,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
+            "admob_weight":5,
             "cb_weight":5
         }
         , "com.dym.Forbidden":
@@ -95,6 +131,9 @@
             "app_name":"禁书大全",
             "admob_id":"ca-app-pub-1354856141599199/2497407868",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -103,6 +142,9 @@
             "app_name":"寂寞空庭春欲晚",
             "admob_id":"ca-app-pub-1354856141599199/9379069467",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -111,6 +153,9 @@
             "app_name":"热门科幻小说",
             "admob_id":"ca-app-pub-1354856141599199/7206698669",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -119,6 +164,9 @@
             "app_name":"侦探小说",
             "admob_id":"ca-app-pub-1354856141599199/6761739863",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -127,6 +175,9 @@
             "app_name":"历史小说",
             "admob_id":"ca-app-pub-1354856141599199/5928331461",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -135,6 +186,9 @@
             "app_name":"鬼吹灯系列小说",
             "admob_id":"ca-app-pub-1354856141599199/7270307064",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -143,6 +197,9 @@
             "app_name":"健身图书",
             "admob_id":"ca-app-pub-1354856141599199/9994944267",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -151,6 +208,9 @@
             "app_name":"金庸全集",
             "admob_id":"ca-app-pub-1354856141599199/8508050667",
             "ads_enabled":true,
+            "admob_enabled":false,
+            "chapter_change_ads":"vungle",
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
