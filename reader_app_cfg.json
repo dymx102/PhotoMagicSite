@@ -5,9 +5,9 @@
         "com.dym.crazyMazeRunner":
         {
             "app_name":"盗墓笔记全集",
-            "admob_id":"ca-app-pub-7635376757557763/5842865936",
+            "admob_id":"ca-app-pub-9932849837242667/2837925031",
             "ads_enabled":true,
-            "admob_weight":0,
+            "admob_weight":5,
             "cb_weight":5
         }
         , "com.dymx101.cityHunter1":
@@ -84,10 +84,10 @@
         }
         , "com.dym.BloodyLegend":
         {
-            "app_name":"玄幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/5393828660",
+            "app_name":"玄幻凡人修仙小说",
+            "admob_id":"ca-app-pub-9932849837242667/1221591034",
             "ads_enabled":true,
-            "admob_weight":0,
+            "admob_weight":5,
             "cb_weight":5
         }
         , "com.dym.Forbidden":
