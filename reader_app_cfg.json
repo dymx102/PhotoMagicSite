@@ -6,6 +6,7 @@
     "cb_app_id": "54b2794004b0167ddb366e00",
     "cb_app_sign": "98629ca1ebbf6ecab5dbad8df22eb288f61d7b96",
     "vungle_app_id": "566437d827af870935000017",
+    "unity_app_id": "95451",
     "apps":
     {
         "com.dym.crazyMazeRunner":
@@ -18,6 +19,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":5,
             "cb_weight":5
@@ -32,6 +34,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -46,6 +49,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -60,6 +64,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -74,6 +79,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -88,6 +94,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -102,6 +109,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -116,6 +124,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -130,6 +139,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -144,6 +154,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -158,6 +169,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":5,
             "cb_weight":5
@@ -172,6 +184,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -186,6 +199,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -200,6 +214,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -214,6 +229,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -228,6 +244,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -242,6 +259,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -256,6 +274,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
@@ -270,6 +289,7 @@
             "vungle_enabled":false,
             "unity_enabled":false,
             "chapter_change_ads":"cb",
+            "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":5
