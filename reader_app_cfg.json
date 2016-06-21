@@ -116,14 +116,14 @@
         }
         , "com.dym.kehuan":
         {
-            "app_name":"科幻悬疑小说_stopped",
+            "app_name":"科幻悬疑小说",
             "admob_id":"",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
             "vungle_enabled":false,
-            "unity_enabled":false,
-            "chapter_change_ads":"cb",
+            "unity_enabled":true,
+            "chapter_change_ads":"unity",
             "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
@@ -206,14 +206,14 @@
         }
         , "com.dym.SienceFiction":
         {
-            "app_name":"热门科幻小说",
+            "app_name":"网游穿越小说-英雄联盟",
             "admob_id":"ca-app-pub-1354856141599199/7206698669",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
             "vungle_enabled":false,
-            "unity_enabled":false,
-            "chapter_change_ads":"cb",
+            "unity_enabled":true,
+            "chapter_change_ads":"unity",
             "unity_weight":0,
             "vungle_weight":0,
             "admob_weight":0,
