@@ -339,5 +339,20 @@
             "admob_weight":0,
             "cb_weight":5
         }
+        , "com.dymx102.zhangailing":
+        {
+            "app_name":"张爱玲全集",
+            "admob_id":"ca-app-pub-9932849837242667/9603334231",
+            "ads_enabled":true,
+            "admob_enabled":true,
+            "cb_enabled":true,
+            "vungle_enabled":false,
+            "unity_enabled":false,
+            "chapter_change_ads":"admob",
+            "unity_weight":0,
+            "vungle_weight":0,
+            "admob_weight":0,
+            "cb_weight":5
+        }
     }
 }
