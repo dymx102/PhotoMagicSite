@@ -20,7 +20,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -35,7 +35,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -50,7 +50,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -65,7 +65,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -80,7 +80,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -95,7 +95,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -110,7 +110,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -125,7 +125,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -140,7 +140,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -155,7 +155,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -170,7 +170,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -185,7 +185,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -200,7 +200,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -215,7 +215,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -226,11 +226,11 @@
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
-            "chapter_change_ads":"cb",
+            "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -245,14 +245,14 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
 	 , "com.dymx102.EatTomato":
         {
             "app_name":"我吃西红柿作品",
-            "admob_id":"ca-app-pub-7635376757557763/5585719131",
+            "admob_id":"ca-app-pub-7635376757557763/7657329537",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
@@ -260,14 +260,14 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
         , "com.dymx102.EastFantasy2":
         {
             "app_name":"梦入神机玄幻小说",
-            "admob_id":"ca-app-pub-7635376757557763/1422557931",
+            "admob_id":"ca-app-pub-7635376757557763/6180596335",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
@@ -275,14 +275,14 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
         , "com.dymx102.EastFantasy3":
         {
             "app_name":"血红玄幻小说",
-            "admob_id":"ca-app-pub-7635376757557763/8077867138",
+            "admob_id":"ca-app-pub-7635376757557763/4703863131",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
@@ -290,14 +290,14 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
         , "com.dymx102.BlackBasketball":
         {
             "app_name":"黑篮同人小说",
-            "admob_id":"ca-app-pub-7635376757557763/5518876733",
+            "admob_id":"ca-app-pub-7635376757557763/3227129938",
             "ads_enabled":true,
 	        "admob_enabled":false,
 	        "cb_enabled":true,
@@ -305,7 +305,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":0,
+	        "vungle_weight":3,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -326,8 +326,8 @@
         }
         , "bigfish.dymx102.com":
         {
-            "app_name":"大鱼海棠小说",
-            "admob_id":"ca-app-pub-9932849837242667/4677377435",
+            "app_name":"微微一笑很倾城",
+            "admob_id":"ca-app-pub-7635376757557763/1750396739",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -342,7 +342,7 @@
         , "com.dymx102.zhangailing":
         {
             "app_name":"张爱玲全集",
-            "admob_id":"ca-app-pub-9932849837242667/9603334231",
+            "admob_id":"ca-app-pub-7635376757557763/6320197136",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
