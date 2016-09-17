@@ -359,7 +359,7 @@
             "app_name":"默认设定",
             "admob_id":"",
             "ads_enabled":true,
-            "admob_enabled":true,
+            "admob_enabled":false,
             "cb_enabled":true,
             "vungle_enabled":true,
             "unity_enabled":false,
