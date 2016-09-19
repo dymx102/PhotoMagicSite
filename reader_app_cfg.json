@@ -16,11 +16,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -31,11 +31,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -46,11 +46,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -61,11 +61,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -95,7 +95,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-            "vungle_weight":3,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -110,7 +110,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-            "vungle_weight":3,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -125,7 +125,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-            "vungle_weight":3,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -136,11 +136,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -151,11 +151,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -166,11 +166,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -196,11 +196,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -215,7 +215,7 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-            "vungle_weight":3,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -226,11 +226,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -241,11 +241,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -256,11 +256,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -271,11 +271,11 @@
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
@@ -286,11 +286,26 @@
             "ads_enabled":false,
             "admob_enabled":false,
             "cb_enabled":true,
-            "vungle_enabled":false,
+            "vungle_enabled":true,
             "unity_enabled":false,
             "chapter_change_ads":"admob",
             "unity_weight":0,
-            "vungle_weight":0,
+            "vungle_weight":5,
+            "admob_weight":0,
+            "cb_weight":5
+        }
+        , "com.dymx.default":
+        {
+            "app_name":"默认设定",
+            "admob_id":"",
+            "ads_enabled":true,
+            "admob_enabled":false,
+            "cb_enabled":true,
+            "vungle_enabled":true,
+            "unity_enabled":false,
+            "chapter_change_ads":"vungle",
+            "unity_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":5
         }
