@@ -140,9 +140,9 @@
             "unity_enabled":false,
             "chapter_change_ads":"vungle",
             "unity_weight":0,
-	        "vungle_weight":5,
+	        "vungle_weight":0,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":5
         }
         , "com.dymx102.FishMan":
         {
