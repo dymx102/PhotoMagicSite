@@ -1,7 +1,7 @@
 {
     "version":1,
     "maxFreeReadCount":20,
-    "enableBaiduReadCount":1,
+    "enableBaiduReadCount":3,
     "intervalToShowAds":600,
     "cb_app_id": "54b2794004b0167ddb366e00",
     "cb_app_sign": "98629ca1ebbf6ecab5dbad8df22eb288f61d7b96",
