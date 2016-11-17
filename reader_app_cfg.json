@@ -12,7 +12,7 @@
         "com.dym.crazyMazeRunner":
         {
             "app_name":"盗墓笔记全集",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -27,7 +27,7 @@
         , "com.dymx101.cityHunter1":
         {
             "app_name":"古龙全集",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -42,7 +42,7 @@
         , "com.dym.skeletonKey":
         {
             "app_name":"芈月传",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -57,7 +57,7 @@
         , "com.unipei.app":
         {
             "app_name":"奇幻小说精选",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
