@@ -22,7 +22,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.danmei":
         {
@@ -37,7 +37,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.qihuan":
         {
@@ -52,7 +52,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.xiaohua":
         {
@@ -67,7 +67,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dym.xianxia":
         {
@@ -82,7 +82,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.kehuan":
         {
@@ -97,7 +97,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.tonghua":
         {
@@ -112,7 +112,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.HappySong":
         {
@@ -127,7 +127,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.fanren":
         {
@@ -142,7 +142,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.FishMan":
         {
@@ -157,7 +157,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.gongting":
         {
@@ -172,7 +172,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dym.SienceFiction":
         {
@@ -187,7 +187,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.conan":
         {
@@ -202,7 +202,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dym.HistoryNovel":
         {
@@ -217,7 +217,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
 	 , "com.dymx102.douluo":
         {
@@ -232,7 +232,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
 	 , "com.dymx102.EastFantasy":
         {
@@ -247,7 +247,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
 	 , "com.dymx102.EatTomato":
         {
@@ -262,7 +262,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.EastFantasy2":
         {
@@ -277,7 +277,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.EastFantasy3":
         {
@@ -292,7 +292,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.BlackBasketball":
         {
@@ -307,7 +307,7 @@
             "unity_weight":0,
 	        "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.laojiumen":
         {
@@ -322,7 +322,7 @@
             "unity_weight":0,
             "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "bigfish.dymx102.com":
         {
@@ -337,7 +337,7 @@
             "unity_weight":0,
             "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx102.zhangailing":
         {
@@ -352,7 +352,7 @@
             "unity_weight":0,
             "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
         , "com.dymx.default":
         {
@@ -367,7 +367,7 @@
             "unity_weight":0,
             "vungle_weight":5,
             "admob_weight":0,
-            "cb_weight":0
+            "cb_weight":1
         }
     }
 }
