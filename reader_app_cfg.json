@@ -72,7 +72,7 @@
         , "com.dly.VaildEmail":
         {
             "app_name":"佛教图书精选",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -87,7 +87,7 @@
         , "com.dym.SchoolFlower":
         {
             "app_name":"校花的贴身高手",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -102,7 +102,7 @@
         , "com.dym.xianxia":
         {
             "app_name":"仙侠小说",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-1354856141599199/2550857067",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
