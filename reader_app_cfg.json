@@ -19,7 +19,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -34,7 +34,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -49,7 +49,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -64,7 +64,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -79,7 +79,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":0,
             "admob_weight":0,
             "cb_weight":0
@@ -94,7 +94,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -109,7 +109,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -124,7 +124,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -139,7 +139,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -154,7 +154,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -169,7 +169,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -184,7 +184,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -199,7 +199,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -214,7 +214,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -229,7 +229,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -244,7 +244,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -259,7 +259,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -274,7 +274,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -289,7 +289,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
@@ -304,7 +304,7 @@
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
-            "unity_weight":3,
+            "unity_weight":5,
             "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
