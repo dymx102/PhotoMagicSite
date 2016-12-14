@@ -12,7 +12,7 @@
         "com.dym.crazyMazeRunner":
         {
             "app_name":"盗墓笔记全集",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -27,7 +27,7 @@
         , "com.dymx101.cityHunter1":
         {
             "app_name":"古龙全集",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -42,7 +42,7 @@
         , "com.dym.skeletonKey":
         {
             "app_name":"芈月传",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -57,7 +57,7 @@
         , "com.unipei.app":
         {
             "app_name":"奇幻小说精选",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -72,7 +72,7 @@
         , "com.dly.VaildEmail":
         {
             "app_name":"佛教图书精选",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -87,7 +87,7 @@
         , "com.dym.SchoolFlower":
         {
             "app_name":"校花的贴身高手",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -102,7 +102,7 @@
         , "com.dym.xianxia":
         {
             "app_name":"仙侠小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -117,7 +117,7 @@
         , "com.dym.kehuan":
         {
             "app_name":"科幻小说系列书城",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -132,7 +132,7 @@
         , "com.dym.tonghua":
         {
             "app_name":"童话故事",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -147,7 +147,7 @@
         , "com.dym.PrinceWife":
         {
             "app_name":"女医明妃传",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -162,7 +162,7 @@
         , "com.dym.BloodyLegend":
         {
             "app_name":"玄幻凡人修仙小说",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -177,7 +177,7 @@
         , "com.dym.Forbidden":
         {
             "app_name":"禁书大全",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -192,7 +192,7 @@
         , "com.dym.PalaceFight":
         {
             "app_name":"寂寞空庭春欲晚",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -207,7 +207,7 @@
         , "com.dym.SienceFiction":
         {
             "app_name":"网游穿越小说-英雄联盟",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -222,7 +222,7 @@
         , "com.dym.DetectiveStory":
         {
             "app_name":"侦探小说",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -237,7 +237,7 @@
         , "com.dym.HistoryNovel":
         {
             "app_name":"历史小说",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -252,7 +252,7 @@
         , "com.dym.TombRaider2":
         {
             "app_name":"鬼吹灯系列小说",
-            "admob_id":"ca-app-pub-1354856141599199/6511235065",
+            "admob_id":"ca-app-pub-7635376757557763/1723688338",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -267,7 +267,7 @@
         , "com.dym.RunningGym":
         {
             "app_name":"健身图书",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -282,7 +282,7 @@
         , "com.founder.comicViewer2":
         {
             "app_name":"金庸全集",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":false,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -297,7 +297,7 @@
         , "com.dymx.default":
         {
             "app_name":"默认设定",
-            "admob_id":"ca-app-pub-1354856141599199/7536446666",
+            "admob_id":"ca-app-pub-7635376757557763/3060820731",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
