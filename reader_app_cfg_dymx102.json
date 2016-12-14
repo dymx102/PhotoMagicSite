@@ -12,7 +12,7 @@
         "com.dymx102.daomu":
         {
             "app_name":"盗墓笔记全集",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -27,7 +27,7 @@
         , "com.dymx102.danmei":
         {
             "app_name":"耽美纯爱小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -42,7 +42,7 @@
         , "com.dymx102.qihuan":
         {
             "app_name":"奇幻小说精选",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -57,7 +57,7 @@
         , "com.dymx102.xiaohua":
         {
             "app_name":"校花的贴身高手",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -72,7 +72,7 @@
         , "com.dym.xianxia":
         {
             "app_name":"仙侠小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -87,7 +87,7 @@
         , "com.dymx102.kehuan":
         {
             "app_name":"科幻悬疑小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -102,7 +102,7 @@
         , "com.dymx102.tonghua":
         {
             "app_name":"童话故事",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -117,7 +117,7 @@
         , "com.dymx102.HappySong":
         {
             "app_name":"欢乐颂",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -132,7 +132,7 @@
         , "com.dymx102.fanren":
         {
             "app_name":"玄幻小说-凡人修仙",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -147,7 +147,7 @@
         , "com.dymx102.FishMan":
         {
             "app_name":"都市玄幻小说系列",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -162,7 +162,7 @@
         , "com.dymx102.gongting":
         {
             "app_name":"寂寞空庭春欲晚",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -177,7 +177,7 @@
         , "com.dym.SienceFiction":
         {
             "app_name":"热门科幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -192,7 +192,7 @@
         , "com.dymx102.conan":
         {
             "app_name":"名侦探柯南系列 - 动漫同人小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -207,7 +207,7 @@
         , "com.dym.HistoryNovel":
         {
             "app_name":"历史小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -222,7 +222,7 @@
 	 , "com.dymx102.douluo":
         {
             "app_name":"唐家三少玄幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":false,
             "cb_enabled":true,
@@ -237,7 +237,7 @@
 	 , "com.dymx102.EastFantasy":
         {
             "app_name":"玄幻修仙小说2",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -252,7 +252,7 @@
 	 , "com.dymx102.EatTomato":
         {
             "app_name":"我吃西红柿作品",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -267,7 +267,7 @@
         , "com.dymx102.EastFantasy2":
         {
             "app_name":"梦入神机玄幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -282,7 +282,7 @@
         , "com.dymx102.EastFantasy3":
         {
             "app_name":"血红玄幻小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -297,7 +297,7 @@
         , "com.dymx102.BlackBasketball":
         {
             "app_name":"黑篮同人小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
 	        "admob_enabled":true,
 	        "cb_enabled":true,
@@ -312,7 +312,7 @@
         , "com.dymx102.laojiumen":
         {
             "app_name":"老九门盗墓小说",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -327,7 +327,7 @@
         , "bigfish.dymx102.com":
         {
             "app_name":"微微一笑很倾城",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -342,7 +342,7 @@
         , "com.dymx102.zhangailing":
         {
             "app_name":"张爱玲全集",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
@@ -357,7 +357,7 @@
         , "com.dymx.default":
         {
             "app_name":"默认设定",
-            "admob_id":"ca-app-pub-1354856141599199/2550857067",
+            "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
             "cb_enabled":true,
