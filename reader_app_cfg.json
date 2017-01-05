@@ -258,7 +258,7 @@
             "cb_enabled":true,
             "vungle_enabled":true,
             "unity_enabled":true,
-            "chapter_change_ads":"admob",
+            "chapter_change_ads":"unity",
             "unity_weight":5,
             "vungle_weight":3,
             "admob_weight":0,
