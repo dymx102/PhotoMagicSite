@@ -283,7 +283,7 @@
         {
             "app_name":"金庸全集",
             "admob_id":"ca-app-pub-7635376757557763/3060820731",
-            "ads_enabled":true,
+            "ads_enabled":false,
             "admob_enabled":true,
             "cb_enabled":true,
             "vungle_enabled":true,
