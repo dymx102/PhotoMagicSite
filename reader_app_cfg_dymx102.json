@@ -8,6 +8,12 @@
     "vungle_app_id": "566437d827af870935000017",
     "vungle_placement_id": "DEFAULT38465",
     "unity_app_id": "95451",
+    "fat_guy_config":{
+    	"chance": 10,
+    	"duration": 10,
+    	"working": 2577,
+    	"sleep_hours": [9, 10, 11, 13, 14, 15, 16, 17, 18]
+    },
     "apps":
     {
         "com.dymx102.daomu":
