@@ -27,9 +27,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.danmei":
         {
@@ -42,9 +42,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.qihuan":
         {
@@ -57,9 +57,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.xiaohua":
         {
@@ -72,9 +72,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.xianxia":
         {
@@ -87,9 +87,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.kehuan":
         {
@@ -102,9 +102,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.tonghua":
         {
@@ -117,9 +117,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.HappySong":
         {
@@ -132,9 +132,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.fanren":
         {
@@ -147,9 +147,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.FishMan":
         {
@@ -162,9 +162,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.gongting":
         {
@@ -177,9 +177,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.SienceFiction":
         {
@@ -192,9 +192,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.conan":
         {
@@ -207,9 +207,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.HistoryNovel":
         {
@@ -222,9 +222,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
 	 , "com.dymx102.douluo":
         {
@@ -237,9 +237,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"unity",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
 	 , "com.dymx102.EastFantasy":
         {
@@ -252,9 +252,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
 	 , "com.dymx102.EatTomato":
         {
@@ -267,9 +267,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.EastFantasy2":
         {
@@ -282,9 +282,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.EastFantasy3":
         {
@@ -297,9 +297,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.BlackBasketball":
         {
@@ -312,9 +312,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":2,
+	        "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.laojiumen":
         {
@@ -327,9 +327,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "bigfish.dymx102.com":
         {
@@ -342,9 +342,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx102.zhangailing":
         {
@@ -357,9 +357,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx.default":
         {
@@ -372,9 +372,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
     }
 }

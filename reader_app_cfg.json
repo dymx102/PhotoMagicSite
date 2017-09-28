@@ -27,9 +27,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx101.cityHunter1":
         {
@@ -42,9 +42,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.skeletonKey":
         {
@@ -57,9 +57,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.unipei.app":
         {
@@ -72,9 +72,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dly.VaildEmail":
         {
@@ -87,9 +87,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.SchoolFlower":
         {
@@ -102,9 +102,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.xianxia":
         {
@@ -117,9 +117,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.kehuan":
         {
@@ -132,9 +132,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.tonghua":
         {
@@ -147,9 +147,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.PrinceWife":
         {
@@ -162,9 +162,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.BloodyLegend":
         {
@@ -177,9 +177,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.Forbidden":
         {
@@ -192,9 +192,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.PalaceFight":
         {
@@ -207,9 +207,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.SienceFiction":
         {
@@ -222,9 +222,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.DetectiveStory":
         {
@@ -237,9 +237,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.HistoryNovel":
         {
@@ -252,9 +252,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.TombRaider2":
         {
@@ -267,9 +267,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"unity",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dym.RunningGym":
         {
@@ -282,9 +282,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.founder.comicViewer2":
         {
@@ -297,9 +297,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
         , "com.dymx.default":
         {
@@ -312,9 +312,9 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":2,
+            "vungle_weight":4,
             "admob_weight":0,
-            "cb_weight":1
+            "cb_weight":0
         }
     }
 }
