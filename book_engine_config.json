@@ -61,7 +61,7 @@
 	},
 	{
 		"site_name": "txt99",
-		"site_urls": ["http://zhannei.baidu.com/","http://www.txt99.cc/", "http://m.txt99.cc/", "http://www.jjxsw.cc/", "http://www.jjxsw.com/"],
+		"site_urls": ["http://zhannei.baidu.com/","http://www.txt99.cc/", "http://m.txt99.cc/", "http://www.txt99.com/", "http://www.jjxsw.cc/", "http://www.jjxsw.com/"],
 		"search_url": "/cse/search?q=%@&p=%ld&s=10722981113312165527",
 		"image_base_url": "http://img.jjxsw.cc/",
 		"enabled": true,
@@ -82,7 +82,7 @@
 			"category_book_link": "<a href=\"([^\"]*)\" title=\"([^\"]*)\"",
 			"category_book_memo": "<div style=\"padding[^\"]*\">([\\s\\S]*?)</div>",
 			"category_book_image": "",
-			"category_book_author": "<small>小说作者：<\/small>([\\s\\S]*?)<small>",
+			"category_book_author": "<small>书籍作者：<\/small>([\\s\\S]*?)<small>",
 
 			"preserved_1": "<div class=\"read_list\">([\\s\\S]*?)</div>",
 			"preserved_2": "",
