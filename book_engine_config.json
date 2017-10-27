@@ -73,8 +73,8 @@
 			"book_image": "<img src=\"([^\"]*)\"",
 			"book_memo": "<p class=\"result-game-item-desc\">([\\s\\S]*?)</p>",
 
-			"chapter_list": "<a href=\"[^\"]*\" title=\"[^\"]*\">",
-			"chapter_item": "<a href=\"([^\"]*)\" title=\"([^\"]*)\">",
+			"chapter_list": "<li><a href=\"([^\"]*)\">([^<]*)</a></li>",
+			"chapter_item": "<li><a href=\"([^\"]*)\">([^<]*)</a></li>",
 			"chapter_content": "<div id=\"view_content_txt\">([\\s\\S]*?)<div class=\"view_page\">",
 
 			"category_list": "<div class=\"listbg\">[\\s\\S]*?<\/div>[\\s\\S]*?<\/div>",
