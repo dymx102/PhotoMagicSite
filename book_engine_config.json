@@ -61,7 +61,7 @@
 	},
 	{
 		"site_name": "txt99",
-		"site_urls": ["http://zhannei.baidu.com/","http://www.txt99.cc/", "http://m.txt99.cc/", "http://www.jjxsw.cc/"],
+		"site_urls": ["http://zhannei.baidu.com/","http://www.txt99.cc/", "http://m.txt99.cc/", "http://www.jjxsw.cc/", "http://www.jjxsw.com/"],
 		"search_url": "/cse/search?q=%@&p=%ld&s=10722981113312165527",
 		"image_base_url": "http://img.jjxsw.cc/",
 		"enabled": true,
