@@ -90,6 +90,36 @@
 		}
 	},
 	{
+		"site_name": "txt99_com",
+		"site_urls": ["http://www.txt99.com/", "http://www.jjxsw.com/"],
+		"search_url": "/cse/search?q=%@&p=%ld&s=10722981113312165527",
+		"image_base_url": "http://img.jjxsw.cc/",
+		"enabled": true,
+		"regex": {
+			"book_list": "<div class=\"result-item result-game-item\">[\\s\\S]*?</p>\\s*?</div>",
+			"book_title": "<img src=\"[^\"]*\" alt=\"([^\"]*)\"",
+			"book_link": "<a cpos=\"newchapter\" href=\"([^\"]*)\"",
+			"book_author": "作者：</span>[\\s\\S]*?<span>([\\s\\S]*?)</span>",
+			"book_image": "<img src=\"([^\"]*)\"",
+			"book_memo": "<p class=\"result-game-item-desc\">([\\s\\S]*?)</p>",
+
+			"chapter_list": "<li><a href=\"([^\"]*)\">([^<]*)</a></li>",
+			"chapter_item": "<li><a href=\"([^\"]*)\">([^<]*)</a></li>",
+			"chapter_content": "<div id=\"view_content_txt\">([\\s\\S]*?)<div class=\"view_page\">",
+
+			"category_list": "<div class=\"listbg\">[\\s\\S]*?<\/div>[\\s\\S]*?<\/div>",
+			"category_book_title": "<a href=\"[^\"]*\" title=\"([^\"]*)\" target=\"_blank\"",
+			"category_book_link": "<a href=\"([^\"]*)\" title=\"([^\"]*)\"",
+			"category_book_memo": "<div style=\"padding[^\"]*\">([\\s\\S]*?)</div>",
+			"category_book_image": "<img src=\"([^\"]*)\" width=",
+			"category_book_author": "<small>书籍作者：<\/small>([\\s\\S]*?)<small>",
+
+			"preserved_1": "<div class=\"view_content_list\">([\\s\\S]*?)</div>",
+			"preserved_2": "",
+			"preserved_3": ""
+		}
+	},
+	{
 		"site_name": "mobile_txt99",
 		"site_urls": ["http://www.txt99.cc/"],
 	}
