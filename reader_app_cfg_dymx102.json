@@ -28,7 +28,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -43,7 +43,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -58,7 +58,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -73,7 +73,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -88,7 +88,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -103,7 +103,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -118,7 +118,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -133,7 +133,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -148,7 +148,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -163,7 +163,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -178,7 +178,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -193,7 +193,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -208,7 +208,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -223,7 +223,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -238,7 +238,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"unity",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -253,7 +253,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -268,7 +268,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -283,7 +283,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -298,7 +298,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -313,7 +313,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-	        "vungle_weight":0,
+	        "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -328,7 +328,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -343,7 +343,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -358,7 +358,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
@@ -373,7 +373,7 @@
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
-            "vungle_weight":0,
+            "vungle_weight":5,
             "admob_weight":0,
             "cb_weight":0
         }
