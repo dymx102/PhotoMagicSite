@@ -152,5 +152,35 @@
 			"preserved_2": "",
 			"preserved_3": ""
 		}
+	},
+    {
+		"site_name": "dym1_com",
+		"site_urls": ["http://www.dym1.com/"],
+		"search_url": "http://www.dym1.com/so/?%@-%@.html",
+		"image_base_url": "",
+		"enabled": true,
+		"regex": {
+			"book_list": "<li>\\s*?<h2><span>[\\s\\S]*?</div>\\s*?</li>",
+			"book_title": "</span><a href=\"[^\"]*\" class=\"eA\" title=\"([^\"]*)\"",
+			"book_link": "</span><a href=\"([^\"]*)\" class=\"eA\" title=\"[^\"]*\"",
+			"book_author": "作者：<a href=\"[^\"]*\" title=\"[^\"]*\" target=\"_blank\">([\\s\\S]*?)</a>",
+			"book_image": "<img src=\"([^\"]*)\"",
+			"book_memo": "<span class=\"jj\">简介</span>([\\s\\S]*?)</p>",
+
+            "chapter_list": "<li data=\"[^\"]*\"><a href=\"([^\"]*)\" title=\"[^\"]*\">([^<]*)</a></li>",
+            "chapter_item": "<li data=\"[^\"]*\"><a href=\"([^\"]*)\" title=\"[^\"]*\">([^<]*)</a></li>",
+			"chapter_content": "</div>\\s*?&nbsp;([\\s\\S]*?)<br /></div>",
+
+			"category_list": "<div class=\"hot-img\">[\\s\\S]*?</a></p>[\\s\\S]*?</div>",
+			"category_book_title": "<a href=\"[^\"]*\" title=\"([^\"]*)\" target=\"_blank\"><",
+			"category_book_link": "<a href=\"([^\"]*)\" title=\"[^\"]*\" target=\"_blank\"><",
+			"category_book_memo": "<p><a href=\"[^\"]*\" title=\"[^\"]*\" target=\"_blank\">([^a]*).+?(?=</a></p>)",
+			"category_book_image": "<img src=\"([^\"]*)\"",
+			"category_book_author": "作者：<a href=\"[^\"]*\" title=\"([^\"]*)\" target=\"_blank\">",
+
+			"preserved_1": "<ul id=\"booklistBox\">([\\s\\S]*?)</ul>",
+			"preserved_2": "",
+			"preserved_3": ""
+		}
 	}
 ]
