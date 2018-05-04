@@ -347,9 +347,9 @@
             "admob_weight":0,
             "cb_weight":0
         }
-        , "com.dymx102.zhangailing":
+        , "com.dymx102.vpnapp":
         {
-            "app_name":"张爱玲全集",
+            "app_name":"UMBRA VPN",
             "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
@@ -359,7 +359,7 @@
             "chapter_change_ads":"admob",
             "unity_weight":10,
             "vungle_weight":5,
-            "admob_weight":0,
+            "admob_weight":10,
             "cb_weight":0
         }
         , "com.dymx.default":
