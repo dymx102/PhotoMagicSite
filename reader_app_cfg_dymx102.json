@@ -332,19 +332,19 @@
             "admob_weight":0,
             "cb_weight":0
         }
-        , "bigfish.dymx102.com":
+        , "com.dymx101.mangaReader":
         {
-            "app_name":"微微一笑很倾城",
+            "app_name":"Manga Monster",
             "admob_id":"ca-app-pub-7635376757557763/1863289132",
             "ads_enabled":true,
             "admob_enabled":true,
-            "cb_enabled":true,
+            "cb_enabled":false,
             "vungle_enabled":true,
             "unity_enabled":true,
             "chapter_change_ads":"admob",
             "unity_weight":10,
             "vungle_weight":5,
-            "admob_weight":0,
+            "admob_weight":10,
             "cb_weight":0
         }
         , "com.dymx102.vpnapp":
