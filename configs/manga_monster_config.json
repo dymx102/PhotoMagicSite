@@ -1,15 +1,21 @@
 {
     "forbidden": {
         "categories": [
-            "Adult",
-            "Mature",
-            "Ecchi"
+            "adult",
+            "mature",
+            "ecchi"
         ],
         "keywords": [
-            "sex"
+            "sex",
+            "adult",
+            "mature",
+            "ecchi"
         ],
         "manga_names": [
-            "high school dxd"
+            "high school dxd",
+            "adult",
+            "mature",
+            "ecchi"
         ],
         "manga_ids": []
     },
