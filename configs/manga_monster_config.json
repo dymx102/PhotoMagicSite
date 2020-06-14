@@ -1,0 +1,19 @@
+{
+    "forbidden": {
+        "categories": [
+            "Adult",
+            "Mature",
+            "Ecchi"
+        ],
+        "keywords": [
+            "sex"
+        ],
+        "manga_names": [
+            "high school dxd"
+        ],
+        "manga_ids": []
+    },
+    "download_enabled": true,
+    "ads_enabled": true,
+    "live_version": "1.2.4"
+}
