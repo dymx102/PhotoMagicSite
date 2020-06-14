@@ -21,5 +21,21 @@
     },
     "download_enabled": true,
     "ads_enabled": true,
-    "live_version": "1.2.4"
+    "live_version": "1.2.4",
+    "hotwords": [
+        "One Piece",
+        "Naruto",
+        "Soul Eater",
+        "Bleach",
+        "Avatar",
+        "Pokemon",
+        "Dragon Ball",
+        "King of Hell",
+        "Initial D",
+        "Onepunch-man",
+        "Witch Hunter",
+        "Inuyasha",
+        "Gamaran",
+        "Slam Dunk"
+    ]
 }
