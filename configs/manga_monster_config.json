@@ -37,5 +37,16 @@
         "Inuyasha",
         "Gamaran",
         "Slam Dunk"
-    ]
+    ],
+    "ads_ids": {
+        "admob_app_id_ios": "ca-app-pub-7635376757557763~5515567555",
+        "admob_banner_id_ios": "ca-app-pub-7635376757557763/1576322541",
+        "admob_interstitial_id_ios": "ca-app-pub-7635376757557763/5323995867",
+        "admob_native_id_ios": "ca-app-pub-7635376757557763/1384750852",
+        "admob_rewarded_id_ios": "ca-app-pub-7635376757557763/2087458436",
+        "unity_game_id_ios": "3670188",
+        "vungle_app_id_ios": "5ef0921252481e00016918d5",
+        "vungle_interstitial_id_ios": "DEFAULT-5362528"
+    },
+    "ads_interval": 600
 }
