@@ -48,5 +48,10 @@
         "vungle_app_id_ios": "5ef0921252481e00016918d5",
         "vungle_interstitial_id_ios": "DEFAULT-5362528"
     },
-    "ads_interval": 600
+    "ads_interval": 600,
+    "ads_weights": {
+        "admob": 10,
+        "unity": 5,
+        "vungle": 3
+    }
 }
