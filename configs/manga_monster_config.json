@@ -21,6 +21,7 @@
     },
     "download_enabled": true,
     "ads_enabled": true,
+    "ads_enabled_chapter_change": true,
     "live_version": "1.2.5",
     "hotwords": [
         "One Piece",
