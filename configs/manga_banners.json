@@ -1,0 +1,14 @@
+{
+    "banners": [
+        {
+            "mangaId": "/en/en-manga/soul-eater/",
+            "title": "Soul Eater",
+            "imageUrl": "https://i0.wp.com/static.zerochan.net/SOUL.EATER.full.1226648.jpg"
+        },
+        {
+            "mangaId": "/en/en-manga/bleach/",
+            "title": "Bleach",
+            "imageUrl": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_rng1xa19/def_height/1080/def_width/1920/version/100011/type/1"
+        }
+    ]
+}
