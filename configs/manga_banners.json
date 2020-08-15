@@ -1,14 +1,46 @@
 {
     "banners": [
         {
-            "mangaId": "/en/en-manga/soul-eater/",
-            "title": "Soul Eater",
-            "imageUrl": "https://i0.wp.com/static.zerochan.net/SOUL.EATER.full.1226648.jpg"
+            "_id": "/en/en-manga/bleach/",
+            "name": "Bleach",
+            "coverUrl": "//cdn.mangaeden.com/mangasimg/200x/99/99af14772b89d87e6f3deb7d6b174537908a3fc5e7cc7eb6fbf92a68.jpg",
+            "alternativeName": "\u30d6\u30ea\u30fc\u30c1,\u0e40\u0e17\u0e1e\u0e21\u0e23\u0e13\u0e30,\u30d6\u30ea\u30fc\u30c1,\u6b7b\u795e,\u0e40\u0e17\u0e1e\u0e21\u0e23\u0e13\u0e30,\u6b7b\u795e,\u6b7b\u795e,\u0e40\u0e17\u0e1e\u0e21\u0e23\u0e13\u0e30,S\u1ee9 M\u1ea1ng Th\u1ea7n Ch\u1ebft,S\u1ee9 M\u1ea1ng Th\u1ea7n Ch\u1ebft,S\u1ee9 M\u1ea1ng Th\u1ea7n Ch\u1ebft,\u30d6\u30ea\u30fc\u30c1",
+            "rating": "4.6170212766",
+            "followers": "10176",
+            "yearOfRelease": "2000",
+            "author": "KUBO Tite",
+            "artist": "KUBO Tite",
+            "genres": "Supernatural,Shounen,Comedy,Adventure,Drama,Action",
+            "type": "Japanese Manga",
+            "status": "Completed",
+            "hits": 180108670,
+            "chapters": [],
+            "latestChapter": 686.0,
+            "latestChapterDate": "2016-08-18",
+            "description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society.\nWhile fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family, but much to her surprise, Ichigo absorbs every last drop of her energy.\nNow a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits, and along with Rukia, who is slowly regaining her powers, it's Ichigo's job to both protect the innocent from Hollows and to help the spirits themselves find peace.\nNote: Won the 50th Shogakukan Manga Award in the Shounen category in 2005.\n",
+            "adult": false,
+            "bannerUrl": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_rng1xa19/def_height/1080/def_width/1920/version/100011/type/1"
         },
         {
-            "mangaId": "/en/en-manga/bleach/",
-            "title": "Bleach",
-            "imageUrl": "https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_rng1xa19/def_height/1080/def_width/1920/version/100011/type/1"
+            "_id": "/en/en-manga/soul-eater/",
+            "name": "Soul Eater",
+            "coverUrl": "//cdn.mangaeden.com/mangasimg/200x/51/510dcd39c5bef88e87906db53c22343cf3268b90ab8acb5b01611c36.jpg",
+            "alternativeName": "\u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448,\u566c\u9b42\u5e08,\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc,\u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448,\u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c \u0434\u0443\u0448,\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc,\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc,\u566c\u9b42\u5e08,\u566c\u9b42\u5e08",
+            "rating": "4.58695652174",
+            "followers": "3751",
+            "yearOfRelease": "2003",
+            "author": "OHKUBO Atsushi",
+            "artist": "OHKUBO Atsushi",
+            "genres": "Supernatural,Shounen,Comedy,School Life,Adventure,Drama,Action",
+            "type": "Japanese Manga",
+            "status": "Completed",
+            "hits": 53380848,
+            "chapters": [],
+            "latestChapter": 113.0,
+            "latestChapterDate": "2013-08-27",
+            "description": "From Yen Press:\nMaka is a weapon meister, determined to turn her partner, a living scythe named Soul Eater, into a powerful death scythe \u2014 the ultimate weapon of Death himself! Charged with the task of collecting and devouring the tainted souls of ninety-nine humans and one witch, Maka and her fellow meisters strive to master their weapons as they face off against the bizarre and dangerous minions of the underworld. But the meisters\u2019 own personal quirks may prove a bigger obstacle than any sultry enchantress.\n",
+            "adult": false,
+            "bannerUrl": "https://i0.wp.com/static.zerochan.net/SOUL.EATER.full.1226648.jpg"
         }
     ]
 }
