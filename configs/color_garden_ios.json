@@ -1,21 +1,13 @@
 {
     "forbidden": {
         "categories": [
-            "adult",
-            "mature",
-            "ecchi"
+            "adult"
         ],
         "keywords": [
-            "sex",
-            "adult",
-            "mature",
-            "ecchi"
+            "sex"
         ],
         "manga_names": [
-            "high school dxd",
-            "adult",
-            "mature",
-            "ecchi"
+            "adult"
         ],
         "manga_ids": []
     },
@@ -25,20 +17,7 @@
     "live_version": "0.1.0",
     "api_url": "http://111.231.224.94/api/",
     "hotwords": [
-        "One Piece",
-        "Naruto",
-        "Soul Eater",
-        "Bleach",
-        "Avatar",
-        "Pokemon",
-        "Dragon Ball",
-        "King of Hell",
-        "Initial D",
-        "Onepunch-man",
-        "Witch Hunter",
-        "Inuyasha",
-        "Gamaran",
-        "Slam Dunk"
+        "One Piece"
     ],
     "ads_ids": {
         "admob_app_id_ios": "ca-app-pub-8345504790828586~9850767220",
@@ -46,7 +25,7 @@
         "admob_interstitial_id_ios": "ca-app-pub-8345504790828586/8126622011",
         "admob_native_id_ios": "ca-app-pub-8345504790828586/8346113866",
         "admob_rewarded_id_ios": "ca-app-pub-8345504790828586/5500458672",
-        "unity_game_id_ios": "3670188",
+        "unity_game_id_ios": "4025920",
         "vungle_app_id_ios": "5ef0921252481e00016918d5",
         "vungle_interstitial_id_ios": "DEFAULT-5362528"
     },
