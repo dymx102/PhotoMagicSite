@@ -26,8 +26,8 @@
         "admob_native_id_ios": "ca-app-pub-8345504790828586/8346113866",
         "admob_rewarded_id_ios": "ca-app-pub-8345504790828586/5500458672",
         "unity_game_id_ios": "4025920",
-        "vungle_app_id_ios": "5ef0921252481e00016918d5",
-        "vungle_interstitial_id_ios": "DEFAULT-5362528"
+        "vungle_app_id_ios": "603afadcf206fdb7518eda9b",
+        "vungle_interstitial_id_ios": "DEFAULT-8501036"
     },
     "ads_interval": 600,
     "ads_weights": {
