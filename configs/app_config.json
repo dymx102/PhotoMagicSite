@@ -9,11 +9,11 @@
         "platforms": {
           "ios": {
             "minVersion": 1,
-            "enabled": false
+            "enabled": true
           },
           "android": {
             "minVersion": 1,
-            "enabled": false
+            "enabled": true
           }
         }
       }
