@@ -1,0 +1,22 @@
+{
+  "serverIp": [
+    "35.223.168.206",
+    "35.188.0.156"
+  ],
+  "featureFlags": {
+    "musicApp": {
+      "fullAccess": {
+        "platforms": {
+          "ios": {
+            "minVersion": 1,
+            "enabled": false
+          },
+          "android": {
+            "minVersion": 1,
+            "enabled": false
+          }
+        }
+      }
+    }
+  }
+}
