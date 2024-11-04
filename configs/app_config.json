@@ -9,7 +9,7 @@
         "platforms": {
           "ios": {
             "minVersion": 1,
-            "enabled": true
+            "enabled": false
           },
           "android": {
             "minVersion": 1,
